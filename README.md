@@ -1,6 +1,8 @@
 # Starship-IFT14
 Starship-IFT14 flight track
 
+Working copy of [exoplanet5/Starship-IFT14](https://github.com/exoplanet5/Starship-IFT14) in `jeffreytanhao-eng/reference-rocket-prediction`.
+
 Trajectory model of **Starship IFT-14**, the first orbital flight, fitted to the published navigational-warning
 hazard zones, plus maps, TLEs and an interactive 3D page. Flight 14 flew on 28 Sep 2026 (liftoff 12:48:59 UTC),
 returned after two orbits and splashed down north of Hawaii at T+03:08:30; the page includes that flight with a
@@ -8,8 +10,10 @@ physical entry reconstruction.
 
 ![3D page](docs/preview.jpg)
 
-**Interactive page:** open `docs/index.html` through a web server (see below), or the GitHub Pages site once it is
-enabled: `https://exoplanet5.github.io/Starship-IFT14/`.
+**Interactive page:** open `docs/index.html` through a web server (see below), or GitHub Pages after the first deploy:
+`https://jeffreytanhao-eng.github.io/reference-rocket-prediction/`.
+
+Original author site: `https://exoplanet5.github.io/Starship-IFT14/`.
 
 ## What is here
 
